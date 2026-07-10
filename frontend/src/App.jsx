@@ -41,7 +41,7 @@ function App() {
   return (
     <div style={{ width: "500px", margin: "50px auto", fontFamily: "Arial" }}>
       <h1>MERN To-Do List</h1>
-      <p> Made to manage time</p>
+      <p>Made to manage time - Feature Branch</p>
 
       <input
         type="text"
